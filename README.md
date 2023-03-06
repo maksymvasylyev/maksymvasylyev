@@ -7,8 +7,13 @@ My name is **Max** and I am a fan of:
 - _coding_
 - and traveling 
 
-<img src="https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="travel" width="200px" height="200px"/>
 
-![coding picture](<img scr="https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="50px">)
+<img src="https://images.pexels.com/photos/15788793/pexels-photo-15788793.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="travel" width="200px" height="200px"/>
 
-![coding picture](https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maksymvasylyev)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
